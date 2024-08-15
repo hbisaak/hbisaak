@@ -23,7 +23,7 @@
 
   <b> About Me <b>
 - 🔭 I’m currently working on ...  Building devsecops skills
-- 🌱 I’m currently learning ... AWS Cloud devsecops, RUST
+- 🌱 I’m currently learning ... AWS devsecops, RUST
 - 👯 I’m looking to collaborate on ... Security Automation in cloud environments
 - 🤔 I’m looking for help with ... using AI to automate security in code. 
 - 💬 Ask me about ... How I went from Art School to this. 
