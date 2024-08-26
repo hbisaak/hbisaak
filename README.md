@@ -4,8 +4,7 @@
 
 - <b>Cloud Security (AWS) </b>
   - [Enhance Cloud Security with AWS IAM](https://github.com/hbisaak/CloudSecurityAWS-IAM/tree/main)
-  - [AWS-based Intrusion Detection System (IDS)](https://github.com/hbisaak/AWS-IntrusionDetectionSystem/tree/main)
-  - [Azure Sentinel RDP Monitoring](https://github.com/hbisaak/Azure-Sentinel-RDP-Monitoring/tree/main)
+   - [Azure Sentinel RDP Monitoring](https://github.com/hbisaak/Azure-Sentinel-RDP-Monitoring/tree/main)
 - <b>Automation</b>
   - [SOAR and EDR Using LimaCharlie and Tines](https://github.com/hbisaak/SOAR-and-EDR/tree/main)
   
